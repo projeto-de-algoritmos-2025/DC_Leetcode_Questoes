@@ -31,9 +31,9 @@ A plataforma disponibiliza problemas classificados por dificuldade (fácil, méd
 
 | Exercício | Enunciado | Resolução | Dificuldade | Autor da Resolução |
 | :--: | -- | :--: | -- | -- |
-| 1 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/?envType=problem-list-v2&envId=divide-and-conquer) | [LC435.py](./Exercício%20122/LC435.py) | Difícil | Guilherme Coelho Mendonça |
-| 2 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/?envType=problem-list-v2&envId=divide-and-conquer) | [LC630.py](./Exercício%202551/LC630.py) | Média | Guilherme Coelho Mendonça |
-| 3 | [493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/?envType=problem-list-v2&envId=divide-and-conquer) | [LC630.py](./Exercício%202551/LC630.py) | Difícil | Guilherme Coelho Mendonça |
+| 1 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/?envType=problem-list-v2&envId=divide-and-conquer) | [LCDC4.py](./Exercício%20122/LC435.py) | Difícil | Guilherme Coelho Mendonça |
+| 2 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/?envType=problem-list-v2&envId=divide-and-conquer) | [LCDC973.py](./Exercício%202551/LC630.py) | Média | Guilherme Coelho Mendonça |
+| 3 | [493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/?envType=problem-list-v2&envId=divide-and-conquer) | [LCDC493.py](./Exercício%202551/LC630.py) | Difícil | Guilherme Coelho Mendonça |
 
 
 ## Execução dos códigos na plataforma LeetCode
